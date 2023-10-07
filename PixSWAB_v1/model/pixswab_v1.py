@@ -183,7 +183,7 @@ def prepare_inputs(iniFile):
     root = parser.get('FILE_PATHS','PathRoot')
     output_dir = os.path.join(root,parser.get('FILE_PATHS', 'PathOut')) 
     time_now = datetime.datetime.now()
-    time_str = time_now.strftime('_%Y_%m_%d_%Hh_%Mm')
+    time_str = time_now.strftime('%Y_%m_%d_%Hh_%Mm')
     time_stamp = str(time_str)
     dir_out = os.path.join(output_dir, time_stamp)
     if not os.path.exists(dir_out):
