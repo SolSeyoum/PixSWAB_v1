@@ -525,6 +525,7 @@ def run_model(inputs, pixswab_parameters):
     mod_results['etb'] = etb
     mod_results['sro'] = sro
     mod_results['qsup'] = qsup
+    mod_results['sm'] = sm
     mod_results['prc'] = prc
     mod_results['Qbf'] = Qbf
     mod_results['qsup_unmet'] = qsup_unmet
