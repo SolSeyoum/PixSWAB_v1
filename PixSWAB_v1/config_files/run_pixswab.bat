@@ -1,0 +1,1 @@
+python ../model/pixswab_v1_cmd.py pixswab_config.ini

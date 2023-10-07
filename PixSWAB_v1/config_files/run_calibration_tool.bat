@@ -1,0 +1,1 @@
+python ../calibration_tool/pixswab_calibration.py calibration_settings.ini

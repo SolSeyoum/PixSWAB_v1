@@ -1,0 +1,6 @@
+﻿Land use,code,Coarse,Medium,Medium fine,Fine,Very fine
+Forest,1,0.05,0.1,0.17,0.3,0.4
+Grass,2,0.15,0.2,0.27,0.4,0.5
+Crop,3,0.25,0.3,0.37,0.5,0.6
+Bare soil,4,0.35,0.4,0.47,0.6,0.7
+imp,5,0.999,0.999,0.999,0.999,0.999

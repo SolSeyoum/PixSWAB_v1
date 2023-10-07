@@ -1,0 +1,5 @@
+ParameterName,MinValue,MaxValue
+baseFlowReces,0,1
+deepPerc,0,1
+rcExp,1,5
+No,1,100

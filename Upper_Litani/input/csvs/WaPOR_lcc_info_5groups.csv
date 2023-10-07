@@ -1,0 +1,26 @@
+﻿landcover class,lcc code,root depth,consumed fraction,lug
+Shrubland,20,370,1,2
+Grassland,30,510,1,2
+Rainfed Cropland,41,550,1,3
+Irrigated Cropland,42,550,1,3
+Fallow Cropland,43,550,1,4
+Built-up,50,370,1,4
+Bare/sparse vegetation,60,370,1,4
+Permanent snow/ice,70,0,1,5
+Water bodies,80,0,1,5
+Temporary water bodies,81,0,1,5
+Shrub or herbaceous cover flooded,90,0,1,5
+Moss and Lichen,100,90,1,2
+Tree cover: closed evergreen needle-leaved,111,1800,1,1
+Tree cover: closed evergreen broad-leaved,112,3140,1,1
+Tree cover: closed deciduous needle-leaved,113,1070,1,1
+Tree cover: closed deciduous broad-leaved,114,1070,1,1
+Tree cover: closed mixed type,115,2000,1,1
+Tree cover: closed unknown type,116,2000,1,1
+Tree cover: open  evergreen needle-leaved,121,1800,1,1
+Tree cover: open  evergreen broad-leaved,122,3140,1,1
+Tree cover: open deciduous needle-leaved,123,1070,1,1
+Tree cover: open  deciduous broad-leaved,124,1070,1,1
+Tree cover: open mixed type,125,2000,1,1
+Tree cover: open unknown type,126,2000,1,1
+Seawater,200,0,1,5
