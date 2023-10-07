@@ -1,0 +1,19 @@
+2023_10_07_10h_46m: PixSWAB model
+                Start date: 2009-01-01 00:00:00
+                  End date: 2017-12-31 00:00:00
+Input files and parameters:
+        LCC info file path: d:\Solomon\Upper_Litani/input/csvs/WaPOR_lcc_info_5groups.csv
+         rc info file path: d:\Solomon\Upper_Litani/input/csvs/lug_stc_info.csv
+   RC slope info file path: d:\Solomon\Upper_Litani/input/csvs/lug_stc_slope_info.csv
+                      p_in: d:\Solomon\Upper_Litani/input/nc/pcp_monthly.nc
+                      e_in: d:\Solomon\Upper_Litani/input/nc/et_monthly.nc
+                      i_in: d:\Solomon\Upper_Litani/input/nc/intp_monthly.nc
+                     lu_in: d:\Solomon\Upper_Litani/input/nc/lcc_yearly.nc
+                  thetasat: d:\Solomon\Upper_Litani/input/nc/thetasat_stat.nc
+                     slope: d:\Solomon\Upper_Litani/input/nc/slope_stat.nc
+                       stc: d:\Solomon\Upper_Litani/input/nc/stc_stat.nc
+                       sfc: d:\Solomon\Upper_Litani/input/nc/sfc_stat.nc
+             baseFlowReces: 0.6726981781544584
+                  deepPerc: 0.8680997834491284
+                     rcExp: 2.1919695662193703
+ Discharge timeseries data saved to d:\Solomon\Upper_Litani\calibration_results\00_001\discharge_monthavg.csv.
