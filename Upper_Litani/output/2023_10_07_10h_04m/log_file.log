@@ -1,0 +1,23 @@
+2023_10_07_10h_04m: PixSWAB model
+                Start date: 2009-01-01 00:00:00
+                  End date: 2017-12-31 00:00:00
+Input files and parameters:
+        LCC info file path: ../../Upper_Litani\input/csvs/WaPOR_lcc_info_5groups.csv
+         rc info file path: ../../Upper_Litani\input/csvs/lug_stc_info.csv
+   RC slope info file path: ../../Upper_Litani\input/csvs/lug_stc_slope_info.csv
+                      p_in: ../../Upper_Litani\input/nc/pcp_monthly.nc
+                      e_in: ../../Upper_Litani\input/nc/et_monthly.nc
+                      i_in: ../../Upper_Litani\input/nc/intp_monthly.nc
+                     lu_in: ../../Upper_Litani\input/nc/lcc_yearly.nc
+                  thetasat: ../../Upper_Litani\input/nc/thetasat_stat.nc
+                     slope: ../../Upper_Litani\input/nc/slope_stat.nc
+                       stc: ../../Upper_Litani\input/nc/stc_stat.nc
+                       sfc: ../../Upper_Litani\input/nc/sfc_stat.nc
+             baseFlowReces: 0.13
+                  deepPerc: 0.46
+                     rcExp: 1.5
+
+         Output files path:
+            Surface_runoff: ../../Upper_Litani\output\2023_10_07_10h_04m\Surface_runoff.nc
+                 Base_flow: ../../Upper_Litani\output\2023_10_07_10h_04m\Base_flow.nc
+2023-10-07 10:09:13.962042: PixSWAB model finished.
